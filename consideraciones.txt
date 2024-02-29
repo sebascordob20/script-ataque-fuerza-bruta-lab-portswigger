@@ -1,0 +1,10 @@
+version python: 3.10.11
+sistema operativo donde se realizó el script: Windows 11 Home
+Herramienta: Visual Studio Code
+Instalar la libreria requests con el gestor de paquetes pip: pip install requests
+
+
+NOTA: 
+Por problemas de conectividad, logró obtener casi siempre un código 504 del servidor de portswigger cuando quiero hacer peticiones
+laboratorio de portswigger con URL: https://0abb00bb04f933ff83e2fa1a004a0038.web-security-academy.net/login' y poder enviar las credenciales al endpoint de login.
+ Me gustaría que me dieran feedback de porqué tengo este error y como podría solucionarlo.
